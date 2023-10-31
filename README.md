@@ -4,8 +4,7 @@
 - UPDATE
 - DELETE
 
-#Frontend
-
--HTML
--CSS
--JAVA SCRIPT
+#Fronten
+- HTML
+- CSS
+- JAVA SCRIPT
