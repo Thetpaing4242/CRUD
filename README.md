@@ -1,1 +1,11 @@
 # CRUD
+- CRATE
+- READ
+- UPDATE
+- DELETE
+
+#Frontend
+
+-HTML
+-CSS
+-JAVA SCRIPT
